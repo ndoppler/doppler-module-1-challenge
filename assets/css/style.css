@@ -43,36 +43,6 @@ content img {
     max-height: 200px;
 }
 
-/* Element Selectors */
-
-h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.seo {
-    color: #d9dcd6;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -84,6 +54,16 @@ aside {
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 h3 {
@@ -109,7 +89,27 @@ content {
     margin-left: 20px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+/* Element Selectors */
+
+.seo {
+    color: #d9dcd6;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
