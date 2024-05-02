@@ -1,7 +1,7 @@
 # doppler-module-1-challenge - Building an Accessible Website
 
 ## Purpose
-The purpose of this project was to display the appropriate usage of semantic HTML elements, while providing concise and well-organize code that showed congruency between HTML and CSS.
+The purpose of this project was to display the appropriate usage of semantic HTML elements, while providing concise and well-organized code that showed congruency between HTML and CSS.
 
 ## Usage
 To run this project, please run the source code on a local host or host it on the internet. To see current state of the project, please visit: https://ndoppler.github.io/doppler-module-1-challenge/
