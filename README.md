@@ -18,5 +18,5 @@ Reference on how to write this Read-Me was provided by a [Medium.com Article](ht
 Reference on how to embed an image into an .md file was utilized from this [DigitalOcean Article](https://www.digitalocean.com/community/tutorials/markdown-markdown-images).
 
 ## Website Images
-<img title="First Website Image" alt="First Website Image" src="/images/Website Image 1.png">
-<img title="Second Website Image" alt="Second Website Image" src="/images/Webside Image 2.png">
+<img title="First Website Image" alt="First Website Image" src="/assets/images/Website Image 1.png">
+<img title="Second Website Image" alt="Second Website Image" src="/assets/images/Webside Image 2.png">
