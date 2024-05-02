@@ -1,7 +1,13 @@
 # doppler-module-1-challenge - Building an Accessible Website
 
+## Link to Application
+https://ndoppler.github.io/doppler-module-1-challenge/
+
 ## Purpose
 The purpose of this project was to display the appropriate usage of semantic HTML elements, while providing concise and well-organized code that showed congruency between HTML and CSS.
+
+## Description
+The Horiseon Services Offered Summary Website was utilizing non-semantic HTML elements (<div>). This application restructured the HTML elements to make it more accessible for all users. We prioritized enhancing the website with these changes without changing or disrupting the overall asthetic.
 
 ## Usage
 To run this project, please run the source code on a local host or host it on the internet. To see current state of the project, please visit: https://ndoppler.github.io/doppler-module-1-challenge/
