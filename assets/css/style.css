@@ -13,7 +13,7 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: white;
 }
 
 nav {
@@ -47,7 +47,7 @@ h1 {
 /* Class Selectors */
 
 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 .hero {
@@ -186,4 +186,10 @@ h1 {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* ID Selectors */
+
+#seo-header {
+    color: #d9dcd6;
 }
